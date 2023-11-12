@@ -9,5 +9,3 @@ Files can also be put in here such as a config, just keep in mind that they this
 - main.py
 - package.json
 - plugin.json
-- themes
-  - exampletheme.css
