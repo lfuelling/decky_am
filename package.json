@@ -1,5 +1,5 @@
 {
-  "name": "decky-am",
+  "name": "decky_am",
   "version": "0.0.1",
   "description": "An AppleMusic plugin for Decky",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lfuelling/decky-am.git"
+    "url": "git+https://github.com/lfuelling/decky_am.git"
   },
   "keywords": [
     "decky",
@@ -21,9 +21,9 @@
   "author": "Lukas Fülling <lerk@gammel.cloud>",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/lfuelling/decky-am/issues"
+    "url": "https://github.com/lfuelling/decky_am/issues"
   },
-  "homepage": "https://github.com/lfuelling/decky-am#readme",
+  "homepage": "https://github.com/lfuelling/decky_am#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21.1.0",
     "@rollup/plugin-json": "^4.1.0",
